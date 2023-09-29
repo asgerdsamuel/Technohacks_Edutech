@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+.converter {
+    margin-bottom: 10px;
+}
+
+input, select, button {
+    font-size: 1em;
+    padding: 5px;
+    margin: 5px;
+}
+
+button {
+    cursor: pointer;
+}
+
+.result {
+    font-size: 1.2em;
+}
